@@ -1,0 +1,11 @@
+name: Sample action
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: pass
+        run: echo "test"
