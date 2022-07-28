@@ -1,3 +1,2 @@
 commit 1a
-new
 commit 2a
